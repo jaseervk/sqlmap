@@ -9,6 +9,9 @@ $ git clone https://github.com/jaseervk/sqlmap.git
 # Change directory
 $ cd sqlmap
 
+# Change permisiion
+$ chmod +x sqlmap.sh
+
 # Run script
 $ ./sqlmap.sh
 
