@@ -6,7 +6,7 @@
 # Download the script
 $ git clone https://github.com/jaseervk/sqlmap.git
 
-#Change directory
+# Change directory
 $ cd sqlmap
 
 # Run script
